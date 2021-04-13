@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Computer Science Society Wiki Blog</title>
+        <link>https://wiki.css.uwindsor.xyz/newsletter</link>
+        <description>Computer Science Society Wiki Blog</description>
+        <lastBuildDate>Wed, 17 Mar 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://wiki.css.uwindsor.xyz/newsletter/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Wed, 17 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to the CSS Newsletter!]]></description>
+        </item>
+    </channel>
+</rss>
