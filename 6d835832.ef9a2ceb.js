@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{84:function(e){e.exports=JSON.parse('{"pluginId":"plugin-docs-css","version":"current","label":"Next","isLast":true,"docsSidebars":{"indexNav":[{"type":"link","label":"Index","href":"/css/"}]},"permalinkToSidebar":{"/css/":"indexNav"}}')}}]);
