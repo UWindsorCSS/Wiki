@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[22],{93:function(e){e.exports=JSON.parse('{"allTagsPath":"/Wiki/newsletter/tags","slug":"update","name":"update","count":1,"permalink":"/Wiki/newsletter/tags/update"}')}}]);

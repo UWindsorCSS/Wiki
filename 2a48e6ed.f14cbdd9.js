@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{78:function(e){e.exports=JSON.parse('{"pluginId":"plugin-docs-academics","version":"current","label":"Next","isLast":true,"docsSidebars":{"indexNav":[{"type":"link","label":"Index","href":"/Wiki/academics/"}]},"permalinkToSidebar":{"/Wiki/academics/":"indexNav"}}')}}]);

@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{80:function(s){s.exports=JSON.parse('{"allTagsPath":"/Wiki/newsletter/tags","slug":"css","name":"css","count":1,"permalink":"/Wiki/newsletter/tags/css"}')}}]);
