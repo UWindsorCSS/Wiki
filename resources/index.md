@@ -5,4 +5,6 @@ sidebar_label: Index
 slug: /
 ---
 
-# Hello from resources
+# Resources
+
+This section is about resources for students. It includes guides, how to find resources, deals, useful links, and much more.
