@@ -21,11 +21,13 @@ There are 2 main ways to contribute
 * Article content, this is writing articles and text content
 * Technical work, this is using ReactJS and Docusaurus to edit how the wiki works and acts
 
-## Disclaimer
+:::note
 
 These instructions are just the simplest way to do these things
 
 If you know what you're and you are sure then you don't need to follow this.
+
+:::
 
 ## Requirements
 
@@ -57,6 +59,11 @@ git clone https://github.com/<Your Github username>/Wiki.git
 If you have it successful then you should have a directory called `Wiki`
 
 Now you are free to make your changes
+
+## Make Your Changes
+To make your changes, launch a text editor and edit the text. You can find more about the file structure by going to https://github.com/UWindsorCSS/Wiki/blob/master/ARCHITECTURE.md
+
+There are article requirements that can be read at [here](./article_requirements.md)
 
 ## Pull Request
 
