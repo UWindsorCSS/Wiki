@@ -7,6 +7,10 @@ If you want to familiarize yourself with the code base and *generally* how it wo
 
 Docusaurus is the static site generator we use. It works by transforming markdown files(`.md`) and markdown with react(`.mdx`) to html. You put the markdown files in specific folders to denote specific sections. There are some configuration files to specify how Docusaurus acts and some React files for specific landing pages.
 
+The main configuration file is `docusaurus.config.js`.
+
+There are 6 sections (`academics/`, `careers/`, `courses/`, `css`, `newsletter`, and `resources`). Each section has a dedicated plugin to serve and build either as a blog(`newsletter/`) or as docs(the rest of them). 
+
 ## Code Map
 
 *The order is a loose grouping of sections and importance*
