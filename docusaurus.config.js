@@ -81,7 +81,7 @@ module.exports = {
           items: [
             {
               label: 'Style Guide',
-              to: 'resources/guides/style',
+              to: 'resources/wiki/style',
             },
             {
               label: 'CS Help Site',

@@ -6,8 +6,8 @@ module.exports = {
 		},
 		{
 			type: 'category',
-			label: 'Guides',
-			items: ['guides/style_guide', 'guides/contributing'],
+			label: 'Contribute To The Wiki',
+			items: ['contribute_wiki/contributing', 'contribute_wiki/style_guide'],
 		}
 	]
 };

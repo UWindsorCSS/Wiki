@@ -2,7 +2,7 @@
 id: contributing
 title: How To Contribute To The Wiki
 sidebar_label: How To Contribute To Wiki
-slug: /guides/contributing-wiki
+slug: /wiki/contributing
 hide_table_of_contents: true
 ---
 
